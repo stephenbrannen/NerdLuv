@@ -92,7 +92,7 @@ function printMatches($rawMatch){
 
 <h1>Matches for <?=$userName?></h1>
 
-<?displayMatches();?>
+<?php displayMatches();?>
 	
 
 <?php include("bottom.html"); ?>
